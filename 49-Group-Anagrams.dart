@@ -1,11 +1,3 @@
-main() {
-  List<String> strs = ["eat", "tea", "tan", "ate", "nat", "bat"];
-  List<String> strs2 = [""];
-  List<String> strs3 = ["a"];
-  List<List<String>> result = groupAnagrams(strs3);
-  print(result);
-}
-
 List<List<String>> groupAnagrams(List<String> strs) {
   Map<String, List<String>> anagramMap = {};
   for (String str in strs) {
