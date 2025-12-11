@@ -31,7 +31,7 @@ Contributions are welcome! If you want to add new solutions, improve existing co
 
 For questions, suggestions, or feedback:
 
-- GitHub Issues: [Submit an issue](https://github.com/Yusif-Mohey/leetcode-solutions/issues)
+- GitHub Issues: [Submit an issue](https://github.com/Yusif-Mohey/leetcode-solutions)
 - Email: moheyy28@gmail.com 📩
 
 ---
