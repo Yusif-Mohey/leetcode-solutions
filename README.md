@@ -2,7 +2,7 @@
 
 Welcome to the **LeetCode Solutions** repository! This project contains my curated solutions to a wide range of LeetCode problems, implemented in various programming languages. The aim is to provide clean, efficient, and well-documented code that can help others learn and prepare for coding interviews.
 
-## this Road map is from :-  https://www.pstrack.tech/roadmap  but it some times i solve the daliy challenges of leetCode
+## this Road map is from :-  https://www.pstrack.tech/roadmap  but it some times i solve the daliy challenges of leetCode and some of the Our LeetCode Study Plan
  
 ## About 📝
 
