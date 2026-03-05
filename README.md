@@ -32,7 +32,9 @@ Contributions are welcome! If you want to add new solutions, improve existing co
 For questions, suggestions, or feedback:
 
 - GitHub Issues: [Submit an issue](https://github.com/Yusif-Mohey/leetcode-solutions)
-- Email: moheyy28@gmail.com 📩
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/yusif-mohey/)
+- LeetCode: [LeetCode](https://leetcode.com/u/yusif_mohey/)
+-  Email: moheyy28@gmail.com 📩
 
 ---
 
