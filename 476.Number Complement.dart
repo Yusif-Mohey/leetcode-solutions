@@ -1,4 +1,4 @@
-int bitwiseComplement(int n) {
+int findComplement(int n) {
   String binaryN = n.toRadixString(2);
   List<String> out = binaryN.split('');
   for (int i = 0; i < out.length; i++) {
@@ -8,7 +8,7 @@ int bitwiseComplement(int n) {
 }
 
 void main(List<String> args) {
-  print(bitwiseComplement(5)); // 2
-  print(bitwiseComplement(7)); // 0
-  print(bitwiseComplement(10)); // 5
+  print(findComplement(5)); // 2
+  print(findComplement(7)); // 0
+  print(findComplement(10)); // 5
 }
